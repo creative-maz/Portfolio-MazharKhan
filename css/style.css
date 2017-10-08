@@ -1,0 +1,118 @@
+/*** Body Styles ***/
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*** NAVIGATION ***/
+
+
+header nav ul li{
+    display: inline-block;
+    margin-left: 30px;
+    padding: 16px 17px;
+}
+
+.logo{
+    margin-top: 8px;
+    margin-left: 5px
+}
+
+
+header .navbar{
+    background: #009ccf;
+    
+    overflow: hidden;
+}
+
+header nav a{
+    color: #fff;
+    font-size: 130%;
+}
+
+header nav a:hover{
+    text-decoration: none;
+    color: #53565a;
+}
+
+/*** About Me ***/
+
+.bg-about{
+    background: ("bg.jpg");
+    background-size: cover;
+}
+
+.text-primary{
+    font-size: 350%;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+
+
+p{
+    font-size: 140%;
+    padding-bottom: 13px;
+}
+
+.border{
+    border-right: 4px solid #009ccf;
+    padding: 120px;
+}
+
+#my-pic{
+    width: 500px;
+    height: 350px;
+}
+
+/*** Porfolio ***/
+
+.box{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+/*** Contact Me ***/
+
+.info{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+/*** footer ***/
+
+footer{
+    background: #009ccf;
+    color: #fff;
+}
+
+footer a:hover{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a{
+    color: #53565a;
+}
+
+.icon{
+    font-size: 30px;
+}
+
+.footer{
+    margin-top: 50px;
+}
+
+.copy{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
